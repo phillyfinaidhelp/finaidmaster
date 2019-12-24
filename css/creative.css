@@ -9730,3 +9730,7 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+footer.footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
